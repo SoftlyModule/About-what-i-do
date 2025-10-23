@@ -1,9 +1,26 @@
-## About Me
+# About me
+## My name is Soft, a 15 year old high school student, currently taking a Java/Computer Science class and enjoy testing other Programming languages that'll fit my need. Am a big historian, love history, I am a femboy for yall that dont know heres a [Wiki](https://gender.fandom.com/wiki/Femboy) about it. I used to use Roblox Studio as a main ground but after the schlep situation I switched to Love2D, absoultely would recommend by the way, very beginner friendly.
 
-Hello there! 👋 I'm astrid, a passionate coder. I am used to Lua, I am a femboy, and I love bunnies!
+## Languages & Skills
+Lua - my favorite lightweight for Love2D, Game Logic, and Prototypes
+CSharp - General Software Development
+Python - Some Knowledge, will be taking a course about it my next semester after Computer Science
+ Java - Currently Studying in school
 
-## Why do I use lua?
-it's easy, understandable, and well im used to it. (of course still have problems with it)
+## Languages i Speak
+🇷🇺 Russian - Intermediate
+🇨🇳 Chinese Mandarin - Basic
+🇺🇸 English - Native
 
-## How did I get into lua?
-My brother needed help in Roblox Studio (i used to use Roblox Studio before), and I didn't know anything before it, and decided to use Jdoodle (https://www.jdoodle.com), Replit of course, and OneComplier (https://onecompiler.com), watching some tutorials to get used to it.
+## Interests
+ Game Design and AI Behavior
+ Simulation and economic-style games
+
+## Contact
+ Always open to learning new things and collaborating - feel free to connect or check out my project!
+
+## Other Socials 
+[YouTube](https://www.youtube.com/@HeyS0ftie)
+[GameJolt](https://gamejolt.com/@SoftTheInkedReelsCreator)
+[TikTok](https://www.tiktok.com/@ss.module)
+[Roblox](https://www.roblox.com/users/530465315/profile)
